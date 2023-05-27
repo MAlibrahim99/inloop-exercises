@@ -1,0 +1,6 @@
+tests/
+*Test.java
+.idea/
+out/
+*.zip
+*.rar
